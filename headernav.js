@@ -15,8 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
         <ul>
           <li><a href="https://coolcat07.net">Home</a></li>
           <li><a href="https://coolcat07.net/subdomains">Subdomains map</a></li>
-          <li><a href="https://projects.coolcat07.net">Projects</a></li>
-          <li><a href="https://blog.coolcat07.net">Blog</a></li>
         </ul>
 
         <!-- nav-toggler for mobile version only -->
